@@ -1,0 +1,48 @@
+.nav-bar {
+  margin-top: 10px;
+  justify-content: center;
+  border-radius: 2px;
+  display: flex;
+}
+
+#li {
+  display: inline;
+}
+
+.card{
+  margin-top: 20px ;
+  border:1px solid black;
+}
+.card:hover{
+  border:1px solid black;
+  box-shadow: 2px 2px grey;
+}
+.Cards {
+  
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.nav {
+  border-radius: 2px;
+  display: flex;
+  justify-content: center;
+}
+
+.card-img-top {
+  border: 1px solid black;
+  width: 100%;
+  height: 15vw;
+  object-fit: cover;
+}
+.but{
+  border: 1px soolid black;
+  margin: 10px;
+  margin-left: 25%;
+  text-align: center;
+}
+.course{
+  text-align: center;
+  
+}
